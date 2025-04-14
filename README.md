@@ -15,3 +15,9 @@ Click on trees or stones to select them to be gathered, then assign a Gnome to g
 Assign a Gnome to work, and they will create items with stone, wood, fiber, leather, and metal. They can also create better food and drink as long as there are enough resources.
 
 Click on build mode to create new structures. Select an area with the red box and choose the type of building you want.
+
+# How to play 
+Download the latest build of the game at: https://lukah777.itch.io/gnome-stonghold
+
+# How to Edit
+Launch with Unity 2023.2.7f1
